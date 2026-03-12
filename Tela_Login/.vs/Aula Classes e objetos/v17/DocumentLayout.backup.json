@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\aula classes e objetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\listausuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\listausuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\listausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\listausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|c:\\users\\joao.vribeiro8\\source\\repos\\aula classes e objetos\\aula classes e objetos\\listausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\listausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\aula classes e objetos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0E2EE88-9D27-4D52-8227-004CEF4E12A9}|Aula Classes e objetos\\Aula Classes e objetos.csproj|solutionrelative:aula classes e objetos\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Form1.Designer.cs*",
+              "RelativeToolTip": "Aula Classes e objetos\\Form1.Designer.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAewDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:49:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaUsuario.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\ListaUsuario.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\ListaUsuario.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\ListaUsuario.cs [Projeto]",
+              "RelativeToolTip": "Aula Classes e objetos\\ListaUsuario.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:59:23.32Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\ListaUsuario.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\ListaUsuario.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\ListaUsuario.cs",
+              "RelativeToolTip": "Aula Classes e objetos\\ListaUsuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:04:02.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\ListaUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\ListaUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\ListaUsuario.Designer.cs",
+              "RelativeToolTip": "Aula Classes e objetos\\ListaUsuario.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:46:37.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Cadastro.cs [Projeto]",
+              "RelativeToolTip": "Aula Classes e objetos\\Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T00:17:47.709Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Cadastro.cs",
+              "RelativeToolTip": "Aula Classes e objetos\\Cadastro.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T00:15:47.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Cadastro.Designer.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\Cadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Cadastro.Designer.cs",
+              "RelativeToolTip": "Aula Classes e objetos\\Cadastro.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAjwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:45:26.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\Form1.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "Aula Classes e objetos\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:50:24.041Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\Form1.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Form1.cs*",
+              "RelativeToolTip": "Aula Classes e objetos\\Form1.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:15:49.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Aula Classes e objetos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\joao.vribeiro8\\source\\repos\\Aula Classes e objetos\\Aula Classes e objetos\\Usuario.cs",
+              "RelativeToolTip": "Aula Classes e objetos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:34:24.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

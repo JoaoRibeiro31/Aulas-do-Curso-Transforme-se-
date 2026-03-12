@@ -1,0 +1,19 @@
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\bin\Debug\net8.0-windows\Aula Classes e objetos.exe
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\bin\Debug\net8.0-windows\Aula Classes e objetos.deps.json
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\bin\Debug\net8.0-windows\Aula Classes e objetos.runtimeconfig.json
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\bin\Debug\net8.0-windows\Aula Classes e objetos.dll
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\bin\Debug\net8.0-windows\Aula Classes e objetos.pdb
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula_Classes_e_objetos.Form1.resources
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.csproj.GenerateResource.cache
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.AssemblyInfoInputs.cache
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.AssemblyInfo.cs
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.csproj.CoreCompileInputs.cache
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.sourcelink.json
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.dll
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\refint\Aula Classes e objetos.dll
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.pdb
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula Classes e objetos.genruntimeconfig.cache
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\ref\Aula Classes e objetos.dll
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula_Classes_e_objetos.Cadastro.resources
+C:\Users\joao.vribeiro8\source\repos\Aula Classes e objetos\Aula Classes e objetos\obj\Debug\net8.0-windows\Aula_Classes_e_objetos.ListaUsuario.resources
